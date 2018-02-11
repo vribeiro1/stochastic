@@ -1,6 +1,7 @@
 data/*
 !data/.gitkeep
 
+.env
 .DS_Store
 .stoch-env
 __pycache__

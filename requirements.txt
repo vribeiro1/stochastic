@@ -1,4 +1,4 @@
-ipython[notebook]
+jupyterlab
 numpy
 scipy
 matplotlib
